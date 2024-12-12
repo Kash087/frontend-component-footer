@@ -53,7 +53,7 @@ const messages = defineMessages({
   },
   trademarkMessage: {
     id: 'authoring.footer.trademark.message',
-    defaultMessage: 'edX and Open edX, and the edX and Open edX logos are registered trademarks of',
+    defaultMessage: 'Powered by',
     description: 'Message about the use of logos and names edX and Open edX',
   },
 });
